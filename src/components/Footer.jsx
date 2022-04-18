@@ -1,5 +1,4 @@
-
-
+import SocialFollow from './SocialFollow'
 
 
 function Footer() {
@@ -13,7 +12,7 @@ function Footer() {
     
     <div>
        
-        <svg> svg here</svg>
+        <SocialFollow />
         <p>Copyright &copy; {footerYear} All rights reserved</p>
 
     </div>
