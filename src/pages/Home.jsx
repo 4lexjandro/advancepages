@@ -2,7 +2,14 @@ import React from 'react'
 
 function Home() {
   return (
-    <div>Home</div>
+    <div>
+      
+      
+      
+      Landing Page what Advance Pages is about
+      
+      
+      </div>
   )
 }
 
